@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 1900
+    },
+    {
+      "id": "2",
+      "name": "Steve Smith",
+      "email": "smith@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "3",
+      "name": "Sara Williams",
+      "email": "sara@gmail.com",
+      "age": 32
+    },
+    {
+      "id": "4",
+      "name": "Kabiru Monkele",
+      "email": "kabirubaby@gmail.com",
+      "age": 32
+    },
+    {
+      "id": "5",
+      "name": "Shukura Owopo",
+      "email": "shuks@gmail.com",
+      "age": 20
+    }
+  ]
+}
